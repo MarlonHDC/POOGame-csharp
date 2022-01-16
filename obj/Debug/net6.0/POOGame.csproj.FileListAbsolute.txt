@@ -1,0 +1,15 @@
+C:\DIO\POOGame\bin\Debug\net6.0\POOGame.exe
+C:\DIO\POOGame\bin\Debug\net6.0\POOGame.deps.json
+C:\DIO\POOGame\bin\Debug\net6.0\POOGame.runtimeconfig.json
+C:\DIO\POOGame\bin\Debug\net6.0\POOGame.dll
+C:\DIO\POOGame\bin\Debug\net6.0\ref\POOGame.dll
+C:\DIO\POOGame\bin\Debug\net6.0\POOGame.pdb
+C:\DIO\POOGame\obj\Debug\net6.0\POOGame.csproj.AssemblyReference.cache
+C:\DIO\POOGame\obj\Debug\net6.0\POOGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\DIO\POOGame\obj\Debug\net6.0\POOGame.AssemblyInfoInputs.cache
+C:\DIO\POOGame\obj\Debug\net6.0\POOGame.AssemblyInfo.cs
+C:\DIO\POOGame\obj\Debug\net6.0\POOGame.csproj.CoreCompileInputs.cache
+C:\DIO\POOGame\obj\Debug\net6.0\POOGame.dll
+C:\DIO\POOGame\obj\Debug\net6.0\ref\POOGame.dll
+C:\DIO\POOGame\obj\Debug\net6.0\POOGame.pdb
+C:\DIO\POOGame\obj\Debug\net6.0\POOGame.genruntimeconfig.cache
