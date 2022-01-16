@@ -15,7 +15,7 @@ namespace POOGame.src.Entities
             Random dado = new Random();
             int forcaDoAtaque = this.nivel + dado.Next(1,15);
             this.valorUltimoAtaque = forcaDoAtaque;
-            return this.nome + "Ataca e da" + forcaDoAtaque + " de dano";
+            return this.nome + " Ataca e da " + forcaDoAtaque + " de dano";
 
         }
     }

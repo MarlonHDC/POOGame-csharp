@@ -33,7 +33,7 @@ namespace POOGame.src.Entities
             int forcaDoAtaque = this.nivel + dado.Next(10,20);
             this.valorUltimoAtaque = forcaDoAtaque;
             return this.nome + " Ataca com a sua espada e da " + 
-                   forcaDoAtaque + " de  dano";
+                   forcaDoAtaque + " de dano";
             
             
         }
