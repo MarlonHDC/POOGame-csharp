@@ -52,7 +52,7 @@ Este programa está na versão 1.0.
 
 ## ✒️ Autores
 
-Mencione todos aqueles que ajudaram a levantar o projeto desde o seu início
+Projeto realizado por Marlon Dias
 
 
 * **Marlon Dias** - *Edição* - [Marlon Dias](https://github.com/MarlonHDC)
