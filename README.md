@@ -63,6 +63,7 @@ Projeto realizado por Marlon Dias
 
 * A Digital Innovation One 📢.
 * A Avanade pelo Bootcamp DecolaTech 2.0. 
+* A GFT pelo Bootcamp GFT START 4.
 * Meus sinceros agradecimentos🤓.
 
 
