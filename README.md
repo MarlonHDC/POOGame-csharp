@@ -1,6 +1,6 @@
-# CRIAÇÃO DE GAME ATRAVÉS DE EXERCÍCIO DE POO
+# CRIAÇÃO DE GAME ATRAVÉS DE EXERCÍCIO DE POO EM C#
 
-Neste código criamos um game com uma regra randomica de batalha de heroi contra vilões
+Neste código criamos um game com uma regra randômica de batalha de herói contra vilões
 
 ## 🚀 Começando
 
@@ -41,9 +41,9 @@ Até finalizar
 ### Abstração.
 
 ## * Resumos da aplicação:
-### Abstração de um game com a criação da classe heroi, e suas classes filhas sendo uma para "Mago" e outra para "Inimigo";
+### Abstração de um game com a criação da classe herói, e suas classes filhas sendo uma para "Mago" e outra para "Inimigo";
 ### Criação dos atributos de cada classe com suas particularidades;
-### Criação de uma regra de negócio randomica onde o heroi e o vilão se atacam mutuamente para ver quem vence os rounds.  
+### Criação de uma regra de negócio randômica onde o herói e o vilão se atacam mutuamente para ver quem vence os rounds.  
 
 
 ## 📌 Versão
